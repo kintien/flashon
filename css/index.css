@@ -1,0 +1,49 @@
+body{
+	background-color: grey;
+}
+}
+#banner{
+	position: absolute;
+	top: 0;
+    text-align: center;
+    font-family: "fondamento";	
+  	font-weight: 60px;
+  	color: black;
+  	height: 80px;
+  	width: 100%;
+  	background-color: #FF6666;
+}
+#Video{
+	position: absolute;
+	top: 85px;
+	left: 25%;
+	height:	20px;
+	width: 40px;
+	font-size: 30px;
+}
+#Photos{
+	position: absolute;
+	top: 85px;
+	left: 50%;
+	height: 20px;
+	width: 40px;
+	font-size: 30px;
+}
+#Contact{
+	position: absolute;
+	top: 85px;
+	left: 75%;
+	height: 20px;
+	width: 200px;
+	font-size: 30px;
+}
+
+#title{
+	position: absolute;
+	left: 45%
+}
+#pic1{
+	position: absolute;
+	top: 30%
+	left 50%
+}
